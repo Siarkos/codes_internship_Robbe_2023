@@ -1,7 +1,15 @@
 #open the video
+
+#give the folder containing the video and the name of the video you want to analyze
 video_folder = '/home/david/Documents/MOU3828/MOU3828_20230215-1627'
 video_name = 'MOU3828_20230215-1627_tracked.avi'
+
+#give the frame at which you want to strat your analysis
 start_frame = 50
+
+#allow to read a video frame by frame. Once launched, press l to go one frame further, j to go back one frame and q to quit the analysis
+
+
 
 import glob, os, time, datetime
 import cv2 
