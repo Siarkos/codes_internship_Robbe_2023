@@ -24,6 +24,8 @@ trajectories_analysis.ipynb : contains a lot of analysis for a single session, a
 
 modelling_reward.ipynb : contains an attemp to modelize the excepected number of reward in the linear_turn task. Only works for a slope of 1.
 
+video_read.py : read a video by moving frame by frame
+
 own_Functions.py : define some functions to be used by other files
 
 median_thomas.py : define some functions to be used in other files
